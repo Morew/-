@@ -1,5 +1,3 @@
-# -采药
-动态规划
 #include<iostream>
 #include<cstdio>
 #include<algorithm>
